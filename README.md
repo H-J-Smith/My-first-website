@@ -2,12 +2,6 @@
 
 Welcome!
 
-## This is H2
+Within this website, I have three pages that all include a image as a hyperlink to another website.
 
-### This is H3
-
-#### This is H4
-
-##### This is H5
-
-###### This is H6
+This website allows a user to find out more information on the types of programming tools that are used within my Code Institute Course.
